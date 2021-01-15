@@ -7,3 +7,8 @@
 ## Red Hat Package Manager (RPM)
 - Red Hat Package Manager (RPM) is the other package management system popular on Linux distributions. It was developed by Red Hat, and adopted by a number of other distributions, including SUSE/penSUSE, Mageia, CentOS, Oracle Linux, and others.
 - The higher-level package manager differs between distributions: Red Hat family distributions historically used the repository format used by yum , however, RHEL/CentOS 8 and Fedora have moved over to using dnf, which is mostly backwards compatible with yum.
+
+## Summary
+- Linux always uses Coordinated Universal Time (UTC) for its own internal time-keeping.
+- The Network Time Protocol is the most popular and reliable protocol for setting the local time via Internet servers.
+- dpkg and RPM are the most popular package management systems used on Linux distributions.

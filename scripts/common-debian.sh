@@ -14,6 +14,7 @@ USER_UID=${3:-"automatic"}
 USER_GID=${4:-"automatic"}
 UPGRADE_PACKAGES=${5:-"true"}
 INSTALL_OH_MYS=${6:-"true"}
+INSTALL_DESKTOP=${7:-"false"}
 
 set -e
 
@@ -327,6 +328,11 @@ if [ "${INSTALL_ZSH}" = "true" ]; then
         ZSH_ALREADY_INSTALLED="true"
     fi
     install-oh-my zsh zshrc.zsh-template https://github.com/ohmyzsh/ohmyzsh
+fi
+
+# Optionally enable graphical interface
+if [ "${INSTALL_DESKTOP}" = "true" ]; then
+    apt-get install ubuntu-desktop xrdp
 fi
 
 # Write marker file

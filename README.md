@@ -13,5 +13,11 @@ vagrant up # Starts a virtual machine
 vagrant ssh # SSH into the machine
 # Local project directory is available at /vagrant
 
-vagrant destroy # Delete the machine
+# To enable graphical interface
+export INSTALL_DESKTOP=true
+vagrant reload
+vagrant rdp
+
+# Delete the machine
+vagrant destroy
 ```

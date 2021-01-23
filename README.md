@@ -7,6 +7,7 @@
 4. [Chapter 4: Graphical Interface](ch04/README.md)
 5. [Chapter 5: System Configuration from the Graphical Interface](ch05/README.md)
 6. [Chapter 6: Common Applications](ch06/README.md)
+7. [Chapter 7: Command Line Operations](ch07/README.md)
 
 ## Bring up a virtual machine
 ```sh

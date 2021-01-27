@@ -9,6 +9,7 @@
 6. [Chapter 6: Common Applications](ch06/README.md)
 7. [Chapter 7: Command Line Operations](ch07/README.md)
 8. [Chapter 8: Finding Linux Documentation](ch08/README.md)
+9. [Chapter 9: Processes](ch09/README.md)
 
 ## Bring up a virtual machine
 ```sh

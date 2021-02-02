@@ -10,6 +10,7 @@
 7. [Chapter 7: Command Line Operations](ch07/README.md)
 8. [Chapter 8: Finding Linux Documentation](ch08/README.md)
 9. [Chapter 9: Processes](ch09/README.md)
+10. [Chapter 10: File Operations](ch10/README.md)
 
 ## Bring up a virtual machine
 ```sh

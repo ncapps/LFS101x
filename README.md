@@ -11,6 +11,7 @@
 8. [Chapter 8: Finding Linux Documentation](ch08/README.md)
 9. [Chapter 9: Processes](ch09/README.md)
 10. [Chapter 10: File Operations](ch10/README.md)
+11. [Chapter 11: Text Editors](ch11/README.md)
 
 ## Bring up a virtual machine
 ```sh

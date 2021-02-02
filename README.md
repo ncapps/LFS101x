@@ -12,6 +12,7 @@
 9. [Chapter 9: Processes](ch09/README.md)
 10. [Chapter 10: File Operations](ch10/README.md)
 11. [Chapter 11: Text Editors](ch11/README.md)
+12. [Chapter 12: User Environment](ch12/README.md)
 
 ## Bring up a virtual machine
 ```sh

@@ -68,6 +68,7 @@ Key | Usage
 ## Working with Text in vi
 
 Key | Usage
+--- | ---
 `a` | Append text after cursor; stop upon Escape key
 `A` | Append text at end of current line; stop upon Escape key
 `i` | Insert text before cursor; stop upon Escape key

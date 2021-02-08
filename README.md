@@ -14,6 +14,7 @@
 11. [Chapter 11: Text Editors](ch11/README.md)
 12. [Chapter 12: User Environment](ch12/README.md)
 13. [Chapter 13: Manipulating Text](ch13/README.md)
+14. [Chapter 14: Network Operations](ch14/README.md)
 
 ## Bring up a virtual machine
 ```sh

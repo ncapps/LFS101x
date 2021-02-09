@@ -15,6 +15,7 @@
 12. [Chapter 12: User Environment](ch12/README.md)
 13. [Chapter 13: Manipulating Text](ch13/README.md)
 14. [Chapter 14: Network Operations](ch14/README.md)
+15. [Chapter 15: The Bash Shell and Basic Scripting](ch15/README.md)
 
 ## Bring up a virtual machine
 ```sh

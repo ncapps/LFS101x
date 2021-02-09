@@ -17,6 +17,7 @@
 14. [Chapter 14: Network Operations](ch14/README.md)
 15. [Chapter 15: The Bash Shell and Basic Scripting](ch15/README.md)
 16. [Chapter 16: More on Bash Shell Scripting](ch16/README.md)
+17. [Chapter 17: Printing](ch17/README.md)
 
 ## Bring up a virtual machine
 ```sh
